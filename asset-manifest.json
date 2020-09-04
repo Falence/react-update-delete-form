@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-submit-delete-form/static/css/main.9447384d.chunk.css",
+    "main.js": "/react-submit-delete-form/static/js/main.f7abc692.chunk.js",
+    "main.js.map": "/react-submit-delete-form/static/js/main.f7abc692.chunk.js.map",
+    "runtime-main.js": "/react-submit-delete-form/static/js/runtime-main.e89061ea.js",
+    "runtime-main.js.map": "/react-submit-delete-form/static/js/runtime-main.e89061ea.js.map",
+    "static/js/2.67691ccd.chunk.js": "/react-submit-delete-form/static/js/2.67691ccd.chunk.js",
+    "static/js/2.67691ccd.chunk.js.map": "/react-submit-delete-form/static/js/2.67691ccd.chunk.js.map",
+    "index.html": "/react-submit-delete-form/index.html",
+    "precache-manifest.072bf0cc963efce36aec9e4b1ae7caaf.js": "/react-submit-delete-form/precache-manifest.072bf0cc963efce36aec9e4b1ae7caaf.js",
+    "service-worker.js": "/react-submit-delete-form/service-worker.js",
+    "static/css/main.9447384d.chunk.css.map": "/react-submit-delete-form/static/css/main.9447384d.chunk.css.map",
+    "static/js/2.67691ccd.chunk.js.LICENSE.txt": "/react-submit-delete-form/static/js/2.67691ccd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e89061ea.js",
+    "static/js/2.67691ccd.chunk.js",
+    "static/css/main.9447384d.chunk.css",
+    "static/js/main.f7abc692.chunk.js"
+  ]
+}
